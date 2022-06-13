@@ -1,5 +1,7 @@
 ### Hi there, My name is Guishny DESOR 👋
 
+![DESOR guishny](https://user-images.githubusercontent.com/60197357/173424143-81bdd2f3-e09f-4c9a-93a1-9a9205c1aff0.gif)
+
 **desorgui/desorgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
