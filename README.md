@@ -1,5 +1,5 @@
 ### Hi there 👋
-![profile](https://www.canva.com/design/DAFDU7iipLk/7STKAiRIRuAgwjHq-wkcEQ/watch?utm_content=DAFDU7iipLk&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+![profile](![profile](Guishny Desor.mp4)
 <!--
 **desorgui/desorgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Guishny's GitHub stats](https://github-readme-stats.vercel.app/api?username=desorgui&hide=stars)](https://github.com/desorgui/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desorgui&layout=compact)](https://github.com/desorgui/github-readme-stats)
