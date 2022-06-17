@@ -6,7 +6,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Javascript Module at Microverse
 - 🌱 I’m currently learning Web programmation.
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: desorguishny@gmail.com
 
 <!--
