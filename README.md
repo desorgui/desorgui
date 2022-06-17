@@ -16,6 +16,6 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 -->
 
-[![Guishny's GitHub stats](https://github-readme-stats.vercel.app/api?username=desorgui&hide=stars)](https://github.com/desorgui/github-readme-stats)
+[![Guishny's GitHub stats](https://github-readme-stats.vercel.app/api?username=desorgui)](https://github.com/desorgui/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desorgui&layout=compact)](https://github.com/desorgui/github-readme-stats)
