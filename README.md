@@ -2,7 +2,6 @@
 
 ![DESOR guishny](https://user-images.githubusercontent.com/60197357/173424143-81bdd2f3-e09f-4c9a-93a1-9a9205c1aff0.gif)
 
-Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Javascript Module at Microverse
 - 🌱 I’m currently learning Web programmation.
