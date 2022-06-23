@@ -29,7 +29,9 @@
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=desorgui)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
 </section>
+
 ### Connect with me via:
+
 <p> 
   <a target="_blank"
     href="mailto:desorguishny@gmail.com"><img 
