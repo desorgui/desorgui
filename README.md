@@ -1,5 +1,7 @@
 ### Hi there 👋.
 
+<section align="center">
+
 ![DESOR guishny](https://user-images.githubusercontent.com/60197357/173424143-81bdd2f3-e09f-4c9a-93a1-9a9205c1aff0.gif)
 
 
@@ -23,9 +25,10 @@
 
 [![Guishny's GitHub stats](https://github-readme-stats.vercel.app/api?username=desorgui&show_icons=true)](https://github.com/desorgui/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desorgui&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=desorgui)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+  
+</section>
 ### Connect with me via:
 <p> 
   <a target="_blank"
