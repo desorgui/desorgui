@@ -5,7 +5,7 @@
 ![DESOR guishny](https://user-images.githubusercontent.com/60197357/173424143-81bdd2f3-e09f-4c9a-93a1-9a9205c1aff0.gif)
 
 
-- 🔭 I’m currently working on Javascript Module at Microverse
+- 🔭 I’m currently working on React Module at Microverse
 - 🌱 I’m currently learning Web programmation.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: desorguishny@gmail.com
