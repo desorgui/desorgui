@@ -5,22 +5,28 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 🔭 I’m currently working on React Module at Microverse
-- 🌱 I’m currently learning Web programmation.
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: desorguishny@gmail.com
+<div style="display: flex">
+  <p align="center" >
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img style="justify-content: center" src="https://readme-typing-svg.herokuapp.com?size=24&color=6353FF&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;Passionate+About+New+Technologies;A+Technophile+and+A+Computer+Geek;Always+Learning+New+Things"</a>
+  </p>
+</div>
 
-### Languages 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeraltz&theme=tokyonight_duo"</a>
+</p>
 
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+### ⚡ Technologies
 
-### Tools 👨🏾‍💻
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
-![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
-![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
 
 
 [![Guishny's GitHub stats](https://github-readme-stats.vercel.app/api?username=desorgui&show_icons=true)](https://github.com/desorgui/github-readme-stats)
