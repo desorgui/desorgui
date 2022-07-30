@@ -1,9 +1,9 @@
-### Hi there 👋.
-
 <section align="center">
 
-![DESOR guishny](https://user-images.githubusercontent.com/60197357/173424143-81bdd2f3-e09f-4c9a-93a1-9a9205c1aff0.gif)
-
+<h3 align="center">
+  Welcome to Guishny Desor's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 - 🔭 I’m currently working on React Module at Microverse
 - 🌱 I’m currently learning Web programmation.
