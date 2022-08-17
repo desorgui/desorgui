@@ -1,3 +1,4 @@
+<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=desorgui&repo=desorgui&countColorcountColor&countColor=%237B1E7B"/>
 <section align="center">
 
 <h3 align="center">
@@ -50,5 +51,3 @@
     href="https://wa.me/+50946591262"><img
     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 </p>
-
-<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=desorgui&repo=desorgui&countColorcountColor&countColor=%237B1E7B"/>
