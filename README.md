@@ -26,6 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desorgui" alt="desorgui" /></a> </p>
 
 
 [![Guishny's GitHub stats](https://github-readme-stats.vercel.app/api?username=desorgui&show_icons=true)](https://github.com/desorgui/github-readme-stats)
