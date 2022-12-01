@@ -1,4 +1,4 @@
-<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=desorgui&repo=desorgui&countColorcountColor&countColor=%237B1E7B"/>
+<!-- <img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=desorgui&repo=desorgui&countColorcountColor&countColor=%237B1E7B"/> -->
 <section align="center">
 
 <h3 align="center">
