@@ -1,6 +1,8 @@
 <!-- <img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=desorgui&repo=desorgui&countColorcountColor&countColor=%237B1E7B"/> -->
 <section align="center">
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=desorgui&label=Profile%20views&color=0e75b6&style=flat" alt="desorgui" /> </p>
+  
 <h3 align="center">
   Welcome to Guishny Desor's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
