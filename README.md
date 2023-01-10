@@ -34,7 +34,7 @@
 
 
 [![Guishny's GitHub stats](https://github-readme-stats.vercel.app/api?username=desorgui&show_icons=true)](https://github.com/desorgui/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desorgui&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desorgui&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
   
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=desorgui)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
