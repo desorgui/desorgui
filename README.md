@@ -33,6 +33,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desorgui" alt="desorgui" /></a> </p>
 
 
+<a href="https://app.daily.dev/guishnydesor"><img src="https://api.daily.dev/devcards/d766cdac7bfb404c8c128c02915d3ece.png?r=h4e" width="400" alt="Guishny Desor's Dev Card"/></a>
+
 [![Guishny's GitHub stats](https://github-readme-stats.vercel.app/api?username=desorgui&show_icons=true)](https://github.com/desorgui/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desorgui&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
   
